@@ -1,0 +1,26 @@
+div{
+    background-color: lightblue;
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.uno{
+    display: inline;
+}
+
+.dos{
+    width: 200px;
+}
+
+.tres{
+    display: inline-block;
+   width: 200px;
+}
+
+.cuatro{
+    display: inline-block;
+   width: 200px;
+}
+.cinco{
+    display: none;
+}
